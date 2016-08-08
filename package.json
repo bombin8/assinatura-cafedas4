@@ -1,0 +1,38 @@
+{
+  "name": "assinatura-cafedas4",
+  "version": "1.0.0",
+  "description": "Snippet project for Café das 4's signatures.",
+  "main": "stylus/assinatura-cafedas4.styl",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bombin8/assinatura-cafedas4.git"
+  },
+  "keywords": [
+    "café",
+    "cafédas4",
+    "café",
+    "das",
+    "4",
+    "assinatura",
+    "signature",
+    "rio",
+    "de",
+    "janeiro",
+    "rj",
+    "brasil",
+    "agência",
+    "agency",
+    "digital",
+    "web",
+    "agency"
+  ],
+  "author": "Giovanni Pires da Silva <gio@bombin8.com.br> (http://www.bombin8.com.br/)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/bombin8/assinatura-cafedas4/issues"
+  },
+  "homepage": "https://github.com/bombin8/assinatura-cafedas4#readme"
+}
