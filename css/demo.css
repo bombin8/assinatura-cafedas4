@@ -1,0 +1,10 @@
+.demo-footer {
+  background: #333;
+  bottom: 0;
+  left: 0;
+  height: 100px;
+  line-height: 100px;
+  position: fixed;
+  text-align: center;
+  width: 100%;
+}
