@@ -1,6 +1,6 @@
 {
   "name": "assinatura-cafedas4",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Snippet project for Café das 4's signatures.",
   "main": "stylus/assinatura-cafedas4.styl",
   "scripts": {
