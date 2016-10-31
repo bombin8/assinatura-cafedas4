@@ -1,3 +1,4 @@
+/* v1.1 */
 .assinatura-cafedas4 {
   display: inline-block;
   height: 17px;
@@ -28,4 +29,19 @@
 .assinatura-cafedas4:focus .assinatura-cafedas4__img__logotipo,
 .assinatura-cafedas4:hover .assinatura-cafedas4__img__logotipo {
   opacity: 1;
+}
+
+/* v1.2 */
+.assinatura-cafedas4--v1-1 {
+  height: 14px;
+  width: 20px;
+}
+.assinatura-cafedas4--v1-1 .assinatura-cafedas4__img {
+  fill: #3b251d;
+  height: 14px;
+  width: 73px;
+}
+.assinatura-cafedas4--v1-1:focus,
+.assinatura-cafedas4--v1-1:hover {
+  width: 73px;
 }
